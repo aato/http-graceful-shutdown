@@ -1,4 +1,4 @@
-// Type definitions for http-graceful-shutdown 2.4
+// Type definitions for http-graceful-shutdown 3.1
 // Project: https://github.com/sebhildebrandt/http-graceful-shutdown
 // Definitions by: sebhildebrandt <https://github.com/sebhildebrandt>
 
